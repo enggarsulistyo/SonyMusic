@@ -5,8 +5,7 @@ Sony music module for magisk.
 
 # Changelog
 
-* Version 9.3.13.A.0.3
-  Fixed bug and stable version.
+* Version 9.3.13.A.0.3 :   Fixed bug and stable version.
   
   
 # Author
